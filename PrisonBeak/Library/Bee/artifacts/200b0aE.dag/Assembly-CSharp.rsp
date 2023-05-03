@@ -358,6 +358,7 @@
 "Assets/Scripts/Lock.cs"
 "Assets/Scripts/Nest.cs"
 "Assets/Scripts/PileofSeeds.cs"
+"Assets/Scripts/SceneController.cs"
 "Assets/Scripts/UI.cs"
 "Assets/Scripts/WaterDish.cs"
 -langversion:9.0

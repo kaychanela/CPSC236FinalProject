@@ -53,6 +53,7 @@
      <Compile Include="Assets/Scripts/Nest.cs" />
      <Compile Include="Assets/Scripts/InteractionSystem.cs" />
      <Compile Include="Assets/Scripts/UI.cs" />
+     <Compile Include="Assets/Scripts/SceneController.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Scripts" />
      <Folder Include="Assets/Sounds" />
