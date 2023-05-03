@@ -363,3 +363,72 @@ Received Import Request.
   path: Assets/Art/WindowSill_Day.png
   artifactKey: Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Art/WindowSill_Day.png using Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc10e780ff32badeb9309c8c55a37ec') in 0.181979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 386.426521 seconds.
+  path: Assets/Art/GameTitle.png
+  artifactKey: Guid(71c7662081630481fbdf9c5794d755a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GameTitle.png using Guid(71c7662081630481fbdf9c5794d755a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2d0f1e0811b403ab0ee7e03f1bd4fa') in 0.023485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.666035 seconds.
+  path: Assets/Art/GameTitle.png
+  artifactKey: Guid(71c7662081630481fbdf9c5794d755a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GameTitle.png using Guid(71c7662081630481fbdf9c5794d755a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2ab43275f5cc91045c5e28b56c349b') in 0.167458 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002676 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/kayla/Documents/GitHub/CPSC244FinalProject/PrisonBeak/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/kayla/Documents/GitHub/CPSC244FinalProject/PrisonBeak/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.968 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3970ms)
+		BeginReloadAssembly (738ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (361ms)
+		EndReloadAssembly (2944ms)
+			LoadAssemblies (393ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (949ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (1415ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (30ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (1188ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (68.1 KB). Loaded Objects now: 3874.
+Memory consumption went from 125.1 MB to 125.1 MB.
+Total: 4.687338 ms (FindLiveObjects: 0.335870 ms CreateObjectMapping: 0.210260 ms MarkObjects: 3.954534 ms  DeleteObjects: 0.184776 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
