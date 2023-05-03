@@ -339,3 +339,27 @@ Received Import Request.
   path: Assets/Sounds/BuzzingFly.mp3
   artifactKey: Guid(9ab588d38430a467e905eccb719cb383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sounds/BuzzingFly.mp3 using Guid(9ab588d38430a467e905eccb719cb383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e266590ebb5e1528f820f1580124c8') in 0.011168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 633.497487 seconds.
+  path: Assets/Art/WindowSill_Day.png
+  artifactKey: Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/WindowSill_Day.png using Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16b6b045e29ec9605dfde4338037734') in 0.276152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.846075 seconds.
+  path: Assets/Art/WindowSill_Evening.png
+  artifactKey: Guid(d018ecc39762944d89502c5d8907471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/WindowSill_Evening.png using Guid(d018ecc39762944d89502c5d8907471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee746384e63b7cdccac98fb007ff466') in 0.015738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.928505 seconds.
+  path: Assets/Art/WindowSill_Evening.png
+  artifactKey: Guid(d018ecc39762944d89502c5d8907471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/WindowSill_Evening.png using Guid(d018ecc39762944d89502c5d8907471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30852a5915c0dbf753485c06c490b289') in 0.260031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.126275 seconds.
+  path: Assets/Art/WindowSill_Day.png
+  artifactKey: Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/WindowSill_Day.png using Guid(3a4332d89532749eab1a89fc6cd53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc10e780ff32badeb9309c8c55a37ec') in 0.181979 seconds 
