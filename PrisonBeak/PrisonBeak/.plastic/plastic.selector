@@ -1,0 +1,4 @@
+repository "PrisonBeak@TouchGoalGames@cloud"
+  path "/"
+    smartbranch "/main/setup" 
+     
